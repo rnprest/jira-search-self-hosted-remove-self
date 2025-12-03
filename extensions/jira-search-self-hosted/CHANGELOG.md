@@ -1,6 +1,6 @@
 # Jira Search Self Hosted Changelog
 
-## [Moved contributor] - {PR_MERGE_DATE}
+## [Moved contributor] - 2025-12-03
 
 ## [Update] - 2025-11-12
 
